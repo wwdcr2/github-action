@@ -10,4 +10,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Run command
-        run: echo "github action run successfully!"
+        run: echo "github action run successfully!!"
